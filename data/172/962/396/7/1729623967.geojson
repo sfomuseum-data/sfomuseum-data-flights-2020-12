@@ -2,6 +2,10 @@
   "id": 1729623967,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-25",
+    "date:cessation_upper": "2020-12-25",
+    "date:inception_lower": "2020-12-25",
+    "date:inception_upper": "2020-12-25",
     "edtf:cessation": "2020-12-25T14:14:54Z",
     "edtf:inception": "2020-12-25T00:02:00Z",
     "flysfo:actual_timestamp": 1608854400,
@@ -15,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1608850500,
     "flysfo:timestamp": 1608854400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,25.272796,51.607761,37.617990",
+    "geom:latitude": 31.445393,
+    "geom:longitude": -35.381591,
     "iata:airline": "QR",
     "icao:aircraft": "A359",
     "icao:airline": "QTR",
@@ -28,33 +32,32 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286153,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 1729749565,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201224-D-QTR-738",
     "sfomuseum:flight_number": [
-      "QTR738", 
+      "QTR738",
       "QR738"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "wof:belongsto": [
-      85688637, 
-      1477855605, 
-      1477855835, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1729623967, 
-      554784711, 
-      102087579, 
-      85922583, 
-      102085387, 
-      1477930299, 
+      85688637,
+      1477855605,
+      1477855835,
+      85633793,
+      102527513,
+      102191575,
+      554784711,
+      102087579,
+      85922583,
+      102085387,
+      1477930299,
       1477855833
     ],
     "wof:breaches": [],
@@ -63,7 +66,7 @@
     },
     "wof:country": "US",
     "wof:created": 1608912610,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "416bdc237edab89fa41708dc7205b7b6",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -78,7 +81,7 @@
         "region_id": 85688637,
         "venue_id": 1477930299,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -94,13 +97,13 @@
     ],
     "wof:id": 1729623967,
     "wof:involves": [
-      -1, 
-      102527513, 
-      1159286153, 
-      1477930299, 
+      -1,
+      102527513,
+      1159286153,
+      1477930299,
       1377564293
     ],
-    "wof:lastmodified": 1608912735,
+    "wof:lastmodified": 1651263457,
     "wof:name": "QR738 (SFO-DOH)",
     "wof:parent_id": 1477930299,
     "wof:placetype": "event",
@@ -110,10 +113,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    0, 
-    0, 
+    -122.370943,
+    25.272796,
+    51.607761,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[51.607761,25.272796]],"type":"MultiPoint"}
 }
