@@ -2,6 +2,10 @@
   "id": 1729615631,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2020-12-21",
+    "date:inception_upper": "2020-12-21",
     "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "2020-12-21T14:56:23-07:00",
     "flysfo:actual_timestamp": 1608615360,
@@ -15,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1608616800,
     "flysfo:timestamp": 1608616800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,123.483002,41.639801",
+    "geom:latitude": 39.6288955,
+    "geom:longitude": 0.5560295000000011,
     "iata:airline": "CZ",
     "icao:aircraft": "A333",
     "icao:airline": "CSN",
@@ -28,39 +32,38 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1159289423,
     "sfomuseum:airline_id": 1159284165,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102550897,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201221-D-CSN-8408",
     "sfomuseum:flight_number": [
-      "CSN8408", 
+      "CSN8408",
       "CZ8408"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "B300V",
     "wof:belongsto": [
-      102085387, 
-      1477855605, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1477855833, 
-      1477855835, 
-      102191575, 
-      1729615631, 
-      554784711, 
-      1477930295, 
-      102527513, 
+      102085387,
+      1477855605,
+      85633793,
+      85922583,
+      85688637,
+      1477855833,
+      1477855835,
+      102191575,
+      554784711,
+      1477930295,
+      102527513,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1608653473,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "35b730df29cf47cc0738a78c2847685d",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -75,7 +78,7 @@
         "region_id": 85688637,
         "venue_id": 1477930295,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -91,13 +94,13 @@
     ],
     "wof:id": 1729615631,
     "wof:involves": [
-      -1, 
-      102527513, 
-      1159284165, 
-      1477930295, 
+      -1,
+      102527513,
+      1159284165,
+      1477930295,
       1159289423
     ],
-    "wof:lastmodified": 1608653713,
+    "wof:lastmodified": 1652122335,
     "wof:name": "CZ8408 (SFO-SHE)",
     "wof:parent_id": 1477930295,
     "wof:placetype": "event",
@@ -107,10 +110,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    0, 
-    0, 
-    37.61799
+    -122.370943,
+    37.61799,
+    123.483002,
+    41.639801
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[123.483002,41.639801]],"type":"MultiPoint"}
 }
