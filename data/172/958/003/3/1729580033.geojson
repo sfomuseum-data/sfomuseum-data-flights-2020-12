@@ -2,6 +2,10 @@
   "id": 1729580033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-08",
+    "date:cessation_upper": "2020-12-08",
+    "date:inception_lower": "2020-12-08",
+    "date:inception_upper": "2020-12-08",
     "edtf:cessation": "2020-12-08T13:14:14-07:00",
     "edtf:inception": "2020-12-08T17:05:00Z",
     "flysfo:actual_timestamp": 1607472000,
@@ -32,31 +36,31 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20201208-A-CPA-872",
     "sfomuseum:flight_number": [
-      "CPA872", 
+      "CPA872",
       "CX872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "BLXJ",
     "wof:belongsto": [
-      102087579, 
-      1729580033, 
-      85688637, 
-      1477855833, 
-      102527513, 
-      85922583, 
-      102085387, 
-      102191575, 
-      554784711, 
-      1477930305, 
-      1477855835, 
-      1477855605, 
-      85633793
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      102085387,
+      102191575,
+      554784711,
+      85633793,
+      1729792387,
+      1729792581,
+      1729792603,
+      1729792579,
+      1729792633
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -67,9 +71,21 @@
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855835,
+        "concourse_id": 1729792581,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "event_id": 1729580033,
+        "region_id": 85688637,
+        "venue_id": 1729792603,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792581,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -77,33 +93,47 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930305,
-        "wing_id": 1477855833
-      }, 
+        "venue_id": 1729792633,
+        "wing_id": 1729792579
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855835,
+        "concourse_id": 1729792581,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729580033,
         "region_id": 85688637,
-        "venue_id": 1477930305,
-        "wing_id": 1477855833
+        "venue_id": 1729792633,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792581,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1729580033,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729792603,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729580033,
     "wof:involves": [
-      102527513, 
-      102541737, 
-      1159284127, 
-      1477930305, 
+      102527513,
+      102541737,
+      1159284127,
+      1477930305,
       1377649085
     ],
-    "wof:lastmodified": 1607530280,
+    "wof:lastmodified": 1653352889,
     "wof:name": "CX872 (HKG-SFO)",
-    "wof:parent_id": 1477930305,
+    "wof:parent_id": -4,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
@@ -111,9 +141,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1729631017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-28",
+    "date:cessation_upper": "2020-12-28",
+    "date:inception_lower": "2020-12-27",
+    "date:inception_upper": "2020-12-27",
     "edtf:cessation": "2020-12-28T08:49:51Z",
     "edtf:inception": "2020-12-27T17:55:00Z",
     "flysfo:actual_timestamp": 1609113600,
@@ -32,31 +36,30 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201227-D-AIC-174",
     "sfomuseum:flight_number": [
-      "AIC174", 
+      "AIC174",
       "AI174"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "VTALG",
     "wof:belongsto": [
-      85688637, 
-      1477855605, 
-      102527513, 
-      554784711, 
-      1477855833, 
-      1477855885, 
-      85633793, 
-      85922583, 
-      102085387, 
-      102191575, 
-      102087579, 
-      1729631017, 
-      1477930475
+      85688637,
+      102527513,
+      554784711,
+      85633793,
+      85922583,
+      102085387,
+      102191575,
+      102087579,
+      1729792387,
+      1729792643,
+      1729792661,
+      1729792579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -67,9 +70,9 @@
     "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855885,
+        "concourse_id": 1729792643,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -77,33 +80,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930475,
-        "wing_id": 1477855833
-      }, 
+        "venue_id": 1729792661,
+        "wing_id": 1729792579
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855885,
+        "concourse_id": 1729792643,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729631017,
         "region_id": 85688637,
-        "venue_id": 1477930475,
-        "wing_id": 1477855833
+        "venue_id": 1729792661,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729631017,
     "wof:involves": [
-      102555709, 
-      102527513, 
-      1159283649, 
-      1477930475, 
+      102555709,
+      102527513,
+      1159283649,
+      1477930475,
       1159289989
     ],
-    "wof:lastmodified": 1609172049,
+    "wof:lastmodified": 1653352955,
     "wof:name": "AI174 (SFO-DEL)",
-    "wof:parent_id": 1477930475,
+    "wof:parent_id": 1729792661,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
@@ -111,9 +114,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    28.561954, 
-    77.098117, 
+    -122.370943,
+    28.561954,
+    77.098117,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[77.098117,28.561954]],"type":"MultiPoint"}

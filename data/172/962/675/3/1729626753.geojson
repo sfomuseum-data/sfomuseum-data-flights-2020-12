@@ -2,6 +2,10 @@
   "id": 1729626753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-26",
+    "date:cessation_upper": "2020-12-26",
+    "date:inception_lower": "2020-12-26",
+    "date:inception_upper": "2020-12-26",
     "edtf:cessation": "2020-12-26T07:22:26-07:00",
     "edtf:inception": "2020-12-26T14:12:11Z",
     "flysfo:actual_timestamp": 1609021980,
@@ -32,31 +36,30 @@
     "sfomuseum:departure_id": 102541591,
     "sfomuseum:flight_id": "20201226-A-ANA-108",
     "sfomuseum:flight_number": [
-      "ANA108", 
+      "ANA108",
       "NH108"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "JA781A",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      1729626753, 
-      1477930479, 
-      1477855605, 
-      85633793, 
-      102085387, 
-      85688637, 
-      1477855833, 
-      1477855885, 
-      554784711, 
-      102191575, 
-      102087579
+      102527513,
+      85922583,
+      85633793,
+      102085387,
+      85688637,
+      554784711,
+      102191575,
+      102087579,
+      1729792387,
+      1729792643,
+      1729792671,
+      1729792579
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -64,9 +67,9 @@
     "wof:geomhash": "99c2bdbe61e95eb26a51b43b0c172358",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855885,
+        "concourse_id": 1729792643,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -74,33 +77,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930479,
-        "wing_id": 1477855833
-      }, 
+        "venue_id": 1729792671,
+        "wing_id": 1729792579
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855885,
+        "concourse_id": 1729792643,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729626753,
         "region_id": 85688637,
-        "venue_id": 1477930479,
-        "wing_id": 1477855833
+        "venue_id": 1729792671,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729626753,
     "wof:involves": [
-      102527513, 
-      102541591, 
-      1159283875, 
-      1477930479, 
+      102527513,
+      102541591,
+      1159283875,
+      1477930479,
       1159289993
     ],
-    "wof:lastmodified": 1609085679,
+    "wof:lastmodified": 1653352948,
     "wof:name": "NH108 (HND-SFO)",
-    "wof:parent_id": 1477930479,
+    "wof:parent_id": 1729792671,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
@@ -108,9 +111,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    35.554085, 
-    139.775638, 
+    -122.370943,
+    35.554085,
+    139.775638,
     37.61799
   ],
   "geometry": {"coordinates":[[139.775638,35.554085],[-122.370943,37.61799]],"type":"MultiPoint"}

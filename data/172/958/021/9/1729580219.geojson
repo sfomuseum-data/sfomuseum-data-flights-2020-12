@@ -2,6 +2,10 @@
   "id": 1729580219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-08",
+    "date:cessation_upper": "2020-12-08",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2020-12-08T03:58:16-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1607454300,
@@ -32,31 +36,30 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20201208-A-JBU-1833",
     "sfomuseum:flight_number": [
-      "JBU1833", 
+      "JBU1833",
       "B61833"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N991JT",
     "wof:belongsto": [
-      1477855605, 
-      102191575, 
-      102085387, 
-      102527513, 
-      554784711, 
-      85922583, 
-      1477881723, 
-      1477855657, 
-      1477855659, 
-      102087579, 
-      85688637, 
-      85633793, 
-      1729580219
+      102191575,
+      102085387,
+      102527513,
+      554784711,
+      85922583,
+      102087579,
+      85688637,
+      85633793,
+      1729792387,
+      1729792437,
+      1729792443,
+      1729792435
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -64,9 +67,9 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855659,
+        "concourse_id": 1729792437,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -74,33 +77,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477881723,
-        "wing_id": 1477855657
-      }, 
+        "venue_id": 1729792443,
+        "wing_id": 1729792435
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855659,
+        "concourse_id": 1729792437,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729580219,
         "region_id": 85688637,
-        "venue_id": 1477881723,
-        "wing_id": 1477855657
+        "venue_id": 1729792443,
+        "wing_id": 1729792435
       }
     ],
     "wof:id": 1729580219,
     "wof:involves": [
-      102527513, 
-      102530741, 
-      1159284583, 
-      1477881723, 
+      102527513,
+      102530741,
+      1159284583,
+      1477881723,
       1159289411
     ],
-    "wof:lastmodified": 1607530278,
+    "wof:lastmodified": 1653352889,
     "wof:name": "B61833 (BOS-SFO)",
-    "wof:parent_id": 1477881723,
+    "wof:parent_id": 1729792443,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
@@ -108,9 +111,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
