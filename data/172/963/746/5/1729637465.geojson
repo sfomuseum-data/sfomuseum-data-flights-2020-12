@@ -90,10 +90,13 @@
       1159285591,
       1477881725
     ],
-    "wof:lastmodified": 1653352964,
+    "wof:lastmodified": 1717032588,
     "wof:name": "WN1039 (SFO-LAX)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -101,10 +101,13 @@
       1477930461,
       1159293215
     ],
-    "wof:lastmodified": 1653352928,
+    "wof:lastmodified": 1717032584,
     "wof:name": "UA114 (PPT-SFO)",
     "wof:parent_id": 1729792649,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

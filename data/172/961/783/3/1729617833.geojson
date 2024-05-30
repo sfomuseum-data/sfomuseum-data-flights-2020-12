@@ -105,10 +105,13 @@
       1477930459,
       1159289985
     ],
-    "wof:lastmodified": 1653352937,
+    "wof:lastmodified": 1717032589,
     "wof:name": "UA732 (EWR-SFO)",
     "wof:parent_id": 1729792549,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

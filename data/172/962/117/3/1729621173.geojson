@@ -90,10 +90,13 @@
       1159283813,
       1477930339
     ],
-    "wof:lastmodified": 1653352941,
+    "wof:lastmodified": 1717032585,
     "wof:name": "AS3353 (SFO-SNA)",
     "wof:parent_id": 1729792393,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

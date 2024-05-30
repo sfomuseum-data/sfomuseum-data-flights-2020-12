@@ -2,6 +2,10 @@
   "id": 1729584409,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-10",
+    "date:cessation_upper": "2020-12-10",
+    "date:inception_lower": "2020-12-10",
+    "date:inception_upper": "2020-12-10",
     "edtf:cessation": "2020-12-10T03:39:15Z",
     "edtf:inception": "2020-12-10T02:03:00Z",
     "flysfo:actual_timestamp": 1607644800,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20201210-A-ASA-1258",
     "sfomuseum:flight_number": [
-      "ASA1258", 
+      "ASA1258",
       "AS1258"
     ],
     "sfomuseum:placetype": "flight",
@@ -48,28 +52,35 @@
     "wof:country": "US",
     "wof:created": 1607702639,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729584409
+      }
+    ],
     "wof:id": 1729584409,
     "wof:involves": [
-      102527513, 
-      102533269, 
-      1159283813, 
-      -1, 
+      102527513,
+      102533269,
+      1159283813,
+      -1,
       1159292085
     ],
-    "wof:lastmodified": 1607703167,
+    "wof:lastmodified": 1717032587,
     "wof:name": "AS1258 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

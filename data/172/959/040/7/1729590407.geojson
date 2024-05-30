@@ -104,10 +104,13 @@
       1477930355,
       1377564297
     ],
-    "wof:lastmodified": 1653352902,
+    "wof:lastmodified": 1717032586,
     "wof:name": "AS288 (SFO-FLL)",
     "wof:parent_id": 1729792409,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

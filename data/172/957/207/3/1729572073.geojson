@@ -2,6 +2,10 @@
   "id": 1729572073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-05",
+    "date:cessation_upper": "2020-12-05",
+    "date:inception_lower": "2020-12-05",
+    "date:inception_upper": "2020-12-05",
     "edtf:cessation": "2020-12-05T08:52:36-07:00",
     "edtf:inception": "2020-12-05T21:55:00Z",
     "flysfo:actual_timestamp": 1607212800,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20201205-A-ACA-566",
     "sfomuseum:flight_number": [
-      "ACA566", 
+      "ACA566",
       "AC566"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "CFKOJ",
@@ -51,28 +55,35 @@
     "wof:country": "US",
     "wof:created": 1607270524,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729572073
+      }
+    ],
     "wof:id": 1729572073,
     "wof:involves": [
-      102527513, 
-      102555307, 
-      1159283597, 
-      -1, 
+      102527513,
+      102555307,
+      1159283597,
+      -1,
       1159292085
     ],
-    "wof:lastmodified": 1607271087,
+    "wof:lastmodified": 1717032585,
     "wof:name": "AC566 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

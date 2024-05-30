@@ -90,10 +90,13 @@
       1159285413,
       1477930397
     ],
-    "wof:lastmodified": 1653352968,
+    "wof:lastmodified": 1717032584,
     "wof:name": "UA5909 (SFO-SBA)",
     "wof:parent_id": 1729792567,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

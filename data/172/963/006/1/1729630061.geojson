@@ -2,6 +2,10 @@
   "id": 1729630061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-27",
+    "date:cessation_upper": "2020-12-27",
+    "date:inception_lower": "2020-12-27",
+    "date:inception_upper": "2020-12-27",
     "edtf:cessation": "2020-12-27T06:22:00Z",
     "edtf:inception": "2020-12-27T01:00:00Z",
     "flysfo:actual_timestamp": 1609113600,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20201227-A-DAL-994",
     "sfomuseum:flight_number": [
-      "DAL994", 
+      "DAL994",
       "DL994"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1609171520,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729630061
+      }
+    ],
     "wof:id": 1729630061,
     "wof:involves": [
-      102527513, 
-      102525635, 
-      1159284261, 
-      -1, 
+      102527513,
+      102525635,
+      1159284261,
+      -1,
       1377564285
     ],
-    "wof:lastmodified": 1609172042,
+    "wof:lastmodified": 1717032584,
     "wof:name": "DL994 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

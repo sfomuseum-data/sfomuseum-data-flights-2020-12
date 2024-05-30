@@ -99,10 +99,13 @@
       1477930283,
       1377564293
     ],
-    "wof:lastmodified": 1653352952,
+    "wof:lastmodified": 1717032590,
     "wof:name": "PR105 (SFO-MNL)",
     "wof:parent_id": 1729792613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

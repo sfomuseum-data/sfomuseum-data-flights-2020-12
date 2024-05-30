@@ -2,6 +2,10 @@
   "id": 1729575273,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-12-06",
+    "date:cessation_upper": "2020-12-06",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2020-12-06T15:14:18-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1607321880,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20201206-A-UAL-2342",
     "sfomuseum:flight_number": [
-      "UAL2342", 
+      "UAL2342",
       "UA2342"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1607357193,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729575273
+      }
+    ],
     "wof:id": 1729575273,
     "wof:involves": [
-      102527513, 
-      102531189, 
-      1159285413, 
-      -1, 
+      102527513,
+      102531189,
+      1159285413,
+      -1,
       1159289407
     ],
-    "wof:lastmodified": 1607357590,
+    "wof:lastmodified": 1717032588,
     "wof:name": "UA2342 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -105,10 +105,13 @@
       1477930319,
       1377564285
     ],
-    "wof:lastmodified": 1653352917,
+    "wof:lastmodified": 1717032585,
     "wof:name": "DL717 (ATL-SFO)",
     "wof:parent_id": 1729792465,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

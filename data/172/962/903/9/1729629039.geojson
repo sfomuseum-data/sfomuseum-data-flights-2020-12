@@ -105,10 +105,13 @@
       1477930399,
       1159289871
     ],
-    "wof:lastmodified": 1653352952,
+    "wof:lastmodified": 1717032590,
     "wof:name": "UA460 (SFO-DEN)",
     "wof:parent_id": 1729792569,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

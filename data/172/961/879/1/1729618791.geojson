@@ -64,10 +64,13 @@
       -1,
       1377564293
     ],
-    "wof:lastmodified": 1651263460,
+    "wof:lastmodified": 1717032590,
     "wof:name": "QR738 (SFO-DOH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

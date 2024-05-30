@@ -96,10 +96,13 @@
       1477930349,
       1159283813
     ],
-    "wof:lastmodified": 1653352925,
+    "wof:lastmodified": 1717032590,
     "wof:name": "SQ1302 (PSP-SFO)",
     "wof:parent_id": 1729792403,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],
